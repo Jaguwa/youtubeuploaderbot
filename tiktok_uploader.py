@@ -8,7 +8,7 @@ from selenium.webdriver.support import expected_conditions as EC
 import os
 
 # Set the path to your ChromeDriver executable
-chromedriver_path = 'C:\SideHustleProjects\chromedriver.exe'
+chromedriver_path = 'C:\x\chromedriver.exe'
 
 # Set the paths for the video and title files
 output_folder = 'output_folder'
